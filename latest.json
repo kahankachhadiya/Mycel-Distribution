@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.8",
+  "notes": "Release v1.0.8",
+  "pub_date": "2026-05-05T19:25:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVGd5RmFsZ3NCcGl3UHpnQnVVZU1zSTZnOWo4RS80QVdnK0RUa0FKczl2Nnd4dnBUcE5ZR2FUYXJPUnpFak9aZkVrdUQweHlMR1lFOUNpc0l5cmRJcUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDA5MDk2CWZpbGU6TXljZWxfMS4wLjhfeDY0LXNldHVwLmV4ZQo1d2pkZXozR1V2c1d2UmtaYWt6a2pVSFVUT1k5NW1ZWHFtanNCZ3VETnhkTzZIMkdRdXNCY2JHNmtIL3VzY0hGOVdvRFI3NWtEQmd5WFI1QTlxaCtEZz09Cg==",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v1.0.8/Mycel_1.0.8_x64-setup.exe"
+    }
+  }
+}
