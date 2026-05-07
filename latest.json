@@ -1,11 +1,11 @@
 {
-  "version": "1.0.32",
-  "notes": "Release v1.0.32",
-  "pub_date": "2026-05-07T04:57:30Z",
+  "version": "1.0.33",
+  "notes": "Release v1.0.33",
+  "pub_date": "2026-05-07T05:56:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHVTejJzNmhqQ1V0SDEzWVlMM1ZWVVJsNDNDSlV5Zm9IUGVEY0NwYzlrK0ZhUnVYOExzaXR0b2FGNDdidG1FRStLc0lBK3I2b05Sa29iRzNxeUU0TGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTI5ODQ4CWZpbGU6TXljZWxfMS4wLjMyX3g2NC1zZXR1cC5leGUKdm1DZDNJb0FFS0JuZE94Zmp3RGdtL1dhemxhR01GL01OQjJLZVRiRlVQZmcwK0NEVStqNGJrbTVBd1N2dHlrbW1OQ3IxUDFjL2J3alJVY3BxUGdTQ1E9PQo=",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v1.0.32/Mycel_1.0.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHJrV3hEa1lIN05XOFA5aEsvWURhL3N3S2dEUXNlbldzbjk1VGJBb29KMFY3eStONld0K1NReXk1bFFkQnBaTzg5RVU4ODJKaDhhaGw1TXJub2lzMmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTMzMzUzCWZpbGU6TXljZWxfMS4wLjMzX3g2NC1zZXR1cC5leGUKZGVCUjU2NHFPdm5ObHZXS25SbDFTaktOT2R2R0RqZWVUTFZ3SkN4MitCM0Qzb1hMekVlQzFRSXV4TnZnQUJwaDBRcndSNFltbXQ4aXZyNk8waVp4Q3c9PQo=",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v1.0.33/Mycel_1.0.33_x64-setup.exe"
     }
   }
 }
