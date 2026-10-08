@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="Mycel logo" width="96" />
+
 # Mycel
 
 **AI-powered client profile management for professional services teams**
