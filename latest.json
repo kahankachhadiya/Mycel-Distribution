@@ -1,23 +1,23 @@
 {
-  "version": "2.0.1",
-  "notes": "Mycel 2.0.1 — new look\n\n## Changed\n- **New logo.** One white Mycel mark with a black outline, readable on light and dark backgrounds: app and taskbar icon, installer, splash screen, sidebar and sign-in page.\n- The browser tab and the Mycel website use the new logo too.",
-  "pub_date": "2026-10-09T06:49:04Z",
+  "version": "2.0.2",
+  "notes": "Mycel 2.0.2\n\n## Fixed\n- The update window shows release notes with headings and bullet points instead of raw text.",
+  "pub_date": "2026-10-09T07:26:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG1OVUROYTFuYUlWK3hjMWtwS0FuUXJvY2ZrZTk3VGUwQ3NOOTRjcnlzS0l4Mk9SaXN3bkJ0cEtOUys3cHM1S3JYRFBXcHFybW9ZMmdqZUt5YzF6VXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTI4NTI3CWZpbGU6TXljZWxfMi4wLjFfeDY0LXNldHVwLmV4ZQpiNTFEYUtsemViWjBrSHdyQ3NFM04xZkF6UCs5ZU01bnB6Q2VORHZ0a3pVYUxyR01KNHFqNnROMUJ0VWZaZ0JIMGxnMkJLTjJMRlUwdVpkTVZ4U2ZEZz09Cg==",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.1/Mycel_2.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHFmczBKeVp1OEUxMmh6c1h0TkpRVGlKa1o0Z25qZk1sLy9hZ283aHJZODVWRHpLT1dveEtmNG5mYWEyQnRTaUZvUGh4UjN0Q3UxSDcxcU43QTB6NkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTMwNzU3CWZpbGU6TXljZWxfMi4wLjJfeDY0LXNldHVwLmV4ZQpXaXdJU1FHNUN6blhKUTJJNHBySTFJb20xazFGSjJMRVdGRFovVEVOZzY4Vmx1OE85c25OOFk3bDA0aCsvdmsrdUhvcmI5RkQ2ZnorM2pHQ1pzQ0FBQT09Cg==",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.2/Mycel_2.0.2_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHBRamFjM1RhVFlvS01ZblBwaGxScXVCL1BUb1ptRmRJVUM4Y2lTeGVvU1pieVQ3WmZKZ3htaXhaNjNDbmkzRkFGMjRIeC9VREJ0STkvelQ5K2FpV3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTI4MTAzCWZpbGU6TXljZWxfMi4wLjFfYW1kNjQuQXBwSW1hZ2UKNEJmaUJqazhaZGttVkFWSE9YM0tMZG0yak41MUNJellzb3ZzcFJHUFg0Y3g3YzlHK3RBSnVvU2FKQzVwMUZTKzhRbGhxU0F3SHJxdTE3QTloZmZlQVE9PQo=",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.1/Mycel_2.0.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVGpvZlQvd3VwOHRnMlFyVnRLU3pMQVdROW1LSDl3VXQ4ZFpEMVZwMTNocHU1SWxSM1g4SjYwVUZ6a0l5NHV0VExrYkhtazVWUER6eGgvWkhYcDVRZEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTMwMzkwCWZpbGU6TXljZWxfMi4wLjJfYW1kNjQuQXBwSW1hZ2UKbHZlWEdRU0pNQ2dNWk9VNjZCNTZkbGpoQWgxbnJsL0hyNml3NDgxSEF6M1JIRXNaZGxHb0svVUpmWGNvRW8rLzV4aDhkK2FRbnYzVWlmeUxDZDdOQnc9PQo=",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.2/Mycel_2.0.2_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHBRamFjM1RhVFlvS01ZblBwaGxScXVCL1BUb1ptRmRJVUM4Y2lTeGVvU1pieVQ3WmZKZ3htaXhaNjNDbmkzRkFGMjRIeC9VREJ0STkvelQ5K2FpV3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTI4MTAzCWZpbGU6TXljZWxfMi4wLjFfYW1kNjQuQXBwSW1hZ2UKNEJmaUJqazhaZGttVkFWSE9YM0tMZG0yak41MUNJellzb3ZzcFJHUFg0Y3g3YzlHK3RBSnVvU2FKQzVwMUZTKzhRbGhxU0F3SHJxdTE3QTloZmZlQVE9PQo=",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.1/Mycel_2.0.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVGpvZlQvd3VwOHRnMlFyVnRLU3pMQVdROW1LSDl3VXQ4ZFpEMVZwMTNocHU1SWxSM1g4SjYwVUZ6a0l5NHV0VExrYkhtazVWUER6eGgvWkhYcDVRZEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTMwMzkwCWZpbGU6TXljZWxfMi4wLjJfYW1kNjQuQXBwSW1hZ2UKbHZlWEdRU0pNQ2dNWk9VNjZCNTZkbGpoQWgxbnJsL0hyNml3NDgxSEF6M1JIRXNaZGxHb0svVUpmWGNvRW8rLzV4aDhkK2FRbnYzVWlmeUxDZDdOQnc9PQo=",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.2/Mycel_2.0.2_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHV6SWFUa2VvaCtDZE5aNzgzamFwR0E0SUZWaFJjNXVldVlETGUwYnZZcnk1cmx5c09pNHVQZ0hSSklWbFB0TS96QmppeUcwUDZ5a2gvcU9ZRFlIQkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTI4MTAzCWZpbGU6TXljZWxfMi4wLjFfYW1kNjQuZGViCm9PNjBIWEZab3NHVENxVm1iekRnKzNyTFRLV2xSTkVDN0FwVS9uVjBsa0ViMEoyczRPS1VaNXU2UTExT010R0dpeW82Ujl1WGtuNGRJSldna2JQOEFnPT0K",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.1/Mycel_2.0.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG01S2NjcUdYOTM3VTh0M1VKWVZ6RExmUW1OdzJOT012azN4blJsUWlCRmg3TFd6WXp5MHlZTnN1cnNoTVFLQWx5UlQ4U05OTUViUzg1eVI1Q0RCeUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTMwMzkxCWZpbGU6TXljZWxfMi4wLjJfYW1kNjQuZGViClFaTnNNRStKdHI3WStqdGdIUkhVMG5qQ2VlRjliOU5STzAxR25QclN4NURTblpjaUsrZUdkQ3VXVDZOcXdabTdZMWtmUzREUXNLNU9kTDVyVy9TM0NnPT0K",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.2/Mycel_2.0.2_amd64.deb"
     }
   }
 }
