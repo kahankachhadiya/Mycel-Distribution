@@ -1,23 +1,23 @@
 {
-  "version": "2.0.6",
-  "notes": "Mycel 2.0.6\n\n## Fixed\n- The super admin dashboard no longer freezes the app when you edit, add or delete an AI provider, filter the extraction log, or clear the agency filter on the Audit Log.\n- Edit Provider opens with the provider's current settings instead of an empty form.\n- Edit Subscription and Approve as Admin close with Esc or a click outside, and Edit Subscription checks the MRR and period end before saving.\n- The Audit Log no longer shows \"Something went wrong\" for an entry without a user.\n- Searching Companies keeps everything you type.\n\n## Improved\n- Companies shows the real number of companies and has Load more; the Audit Log cards count every entry, not only the ones loaded.\n- Subscriptions can be refreshed and exported to CSV, and View All on Expiring Soon opens Subscriptions.\n- The dashboard's fourth card shows At-Risk MRR (expired and canceled subscriptions).",
-  "pub_date": "2026-10-13T12:38:47Z",
+  "version": "2.0.7",
+  "notes": "Mycel 2.0.7\n\n## Fixed\n- Opening the app more than a day after your last sign-in now goes straight to the sign-in screen, without a \"Failed to load form templates: permission denied\" error.",
+  "pub_date": "2026-10-13T13:38:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG1MM3BDWW9aME1ZRGZ4T2JXZlpYT2o5WTRZNjQ2K1huSmZGSmFmMjFSZGZldHlPNm55dHJtUmVpQWFRQ245cjhnY3g1WEFxbFVEeUxkelJ6RkpwQWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk1MTAxCWZpbGU6TXljZWxfMi4wLjZfeDY0LXNldHVwLmV4ZQpuYldnbHhhMENWdW8xUFp3UHhCdUlRSGhFbjd1S2hqdkhMb0pGckt4UWNZWnVWcjFLNXF1bzFVdFBZRzdJbzhONnVqSVFHczZ6TFZKaWlLNjc0RmFEZz09Cg==",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.6/Mycel_2.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHVmUjUwcXlEVzU5SitNdGo2TW9wYUx6cm9GY0IzeU1ncWNVSDNrOVFNR1FyVlJERTZBREQxdFA4K2h6UnFHdFdqRG5LRG5WRE1uYTlFbms1ZUVXeEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk4NjYwCWZpbGU6TXljZWxfMi4wLjdfeDY0LXNldHVwLmV4ZQpvQ2NkYTJrc0NXa2ZROUNSbzJmTnJ6em80aTFQbWpVemhOL1BOVElxQWFCblF0TjdyMjM5bHptejFHVGFOZzdjaUpSU0FhV1hFYUU3R3JISUpURnVBUT09Cg==",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.7/Mycel_2.0.7_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG1BdlRKYXN4eGpvRzU1WWFjNnU4QkpDK2FBL3lmYU40Ykd0dU9lZVpIY0JuODcxek9wNkFkS0VxQ3dsYlk3MHF2NElSZG1Ob3lhbVlBcHpPWWdIUUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk0ODA4CWZpbGU6TXljZWxfMi4wLjZfYW1kNjQuQXBwSW1hZ2UKNHNmdWcrWWNtQWlvYWpRcjN0SUw0N3l0czNKbzNWQjBORndkQ1ByUnNaZytKdDlwSEhQUWRRcVpFdzBTQVUrVlkvL1l4bFdyYlVOalBURko0QnlsQ1E9PQo=",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.6/Mycel_2.0.6_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHA4c3dTNzNOalAyUlRBSEJZZXVXTTZGcWtudFBVMkxYNyt1M0hjTWZQTVhiT05OdWNRRkxPdHhXcThQN1pCbGkwQ3lrd1haVW5Wb2Z3TDNJTWtySGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk4NDI5CWZpbGU6TXljZWxfMi4wLjdfYW1kNjQuQXBwSW1hZ2UKNWt6ZlBwOXNQaGRsdmlVeE9nUkhCbmtYaEgwZ2RYNUlDbGExYkNpZUNlaXVtZERYSm5iS1ZlY1RaNjNvWiszMTN1MTZIOUhzWjNFSnd1VmJ0OXlWQ3c9PQo=",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.7/Mycel_2.0.7_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG1BdlRKYXN4eGpvRzU1WWFjNnU4QkpDK2FBL3lmYU40Ykd0dU9lZVpIY0JuODcxek9wNkFkS0VxQ3dsYlk3MHF2NElSZG1Ob3lhbVlBcHpPWWdIUUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk0ODA4CWZpbGU6TXljZWxfMi4wLjZfYW1kNjQuQXBwSW1hZ2UKNHNmdWcrWWNtQWlvYWpRcjN0SUw0N3l0czNKbzNWQjBORndkQ1ByUnNaZytKdDlwSEhQUWRRcVpFdzBTQVUrVlkvL1l4bFdyYlVOalBURko0QnlsQ1E9PQo=",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.6/Mycel_2.0.6_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHA4c3dTNzNOalAyUlRBSEJZZXVXTTZGcWtudFBVMkxYNyt1M0hjTWZQTVhiT05OdWNRRkxPdHhXcThQN1pCbGkwQ3lrd1haVW5Wb2Z3TDNJTWtySGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk4NDI5CWZpbGU6TXljZWxfMi4wLjdfYW1kNjQuQXBwSW1hZ2UKNWt6ZlBwOXNQaGRsdmlVeE9nUkhCbmtYaEgwZ2RYNUlDbGExYkNpZUNlaXVtZERYSm5iS1ZlY1RaNjNvWiszMTN1MTZIOUhzWjNFSnd1VmJ0OXlWQ3c9PQo=",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.7/Mycel_2.0.7_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVHRTblU4SENJcE4wQlVHb0YxWkZYUjVMVUFCNFRZaU4xMWZHT0tIMGE2dWU4R29CWW9ZRFNFcmVMUzNWMUhMVzZCMFVhamIxTHpwUVdCRnlmQ2dycUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk0ODA4CWZpbGU6TXljZWxfMi4wLjZfYW1kNjQuZGViCjBONjJhbUJkcHZiSGZRQytuMGhHaTY5ckgzMDVueGFtQVpRbDU3dWVOMWNrbGNsbkpQSTJpbnVLOEVuS2cxTENTTGdJTDFBMlhpanBjKzMrNURsaUFBPT0K",
-      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.6/Mycel_2.0.6_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODdYaHVpZVIyVG9oVUVBYS9xdXVnSWJTWFgwSGE1emE5SlpUbkdscHNmTEw5aWUrSDU1bVg1RXRIZy8ySS85RGZnb3Z6ZXh3V28yYlQ2N0NRM2xhWnVlWWd1ZzZDRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk4NDMwCWZpbGU6TXljZWxfMi4wLjdfYW1kNjQuZGViCmw4NTNYdS85Y0p5M0pzUmxqZWZmd3pJUytlS2p6QlNsV01hc3ArUUlLMHpNY045NktiZEpwZFBrd1lUWmdkNWhCNHgybkNBeGZNYXIwb2k3WTdyVEFRPT0K",
+      "url": "https://github.com/kahankachhadiya/Mycel-Distribution/releases/download/v2.0.7/Mycel_2.0.7_amd64.deb"
     }
   }
 }
